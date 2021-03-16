@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zflansberry
+- 👋 Hi, I’m Zackary Flansberry
 - 👀 I’m interested in modelling systems. Any system really. 
      I've mostly worked in the quantum physics / semiconductors / climate science / geoscience fields.
 - 🌱 I’m currently learning Geophysics as part of my job at 
